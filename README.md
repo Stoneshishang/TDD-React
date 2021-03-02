@@ -1,3 +1,5 @@
+This is the first sample of React Enzyme from Udemy React TDD course. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
